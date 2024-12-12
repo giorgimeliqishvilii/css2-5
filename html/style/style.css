@@ -1,0 +1,46 @@
+* {
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#navimg {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#menudiv {
+    display: inline-block;
+    width: 18%;
+    font-size: 18px;
+    vertical-align: middle;
+    margin: 0 auto;
+} 
+
+#Pricing {
+    display: inline-block;
+    width: 59px;
+}
+
+#FAQ {
+    display: inline-block;
+    margin-left: 20px;
+    width: 39px;
+}
+
+#Our-reviews {
+    display: inline-block;
+    margin-left: 20px;
+    width: 102px;
+}
+
+#button {
+    display: inline-block;
+    width: 105px;
+    border-radius: 8px;
+    border: 1px #6941C6 solid;
+    padding: 8px 16px;
+    color: white;
+    background-color: #6941C6;
+}
