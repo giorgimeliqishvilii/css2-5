@@ -77,7 +77,7 @@
 
 #mainborderdiv {
     display: inline-block;
-    margin-right: 32px;
+    margin-right: 105px;
 }
 
 #basicdiv {
@@ -207,35 +207,330 @@
     margin-top: -1px;
 }
 
-#mainbusinessdiv {
-    display: inline-block;
+#askeddiv {
+    background-color: white;
+    border-radius: 24px;
+    margin-bottom: 64px;
+    padding-bottom: 32px;
 }
 
-#businesdiv {
-    background-color: #FFFFFF;
-    border: 2px solid #FFFFFF;
+#askedp {
+    text-align: center;
+    font-size: 40px;
+}
+
+#undertext {
+    font-size: 24px;
+    text-align: center;
+}
+
+#freetrialdiv {
+    max-width: 768px;
+    background-color: #E4E4E4;
+    padding: 32px;
     border-radius: 16px;
-    padding: 40px 32px 32px 32px;
+    margin: 0 auto;
+    margin-bottom: 16px;
 }
 
-#businesplan {
-    display: inline-block;
-    width: 117px;
-    border: 1px solid #E9D7FE;
-    border-radius: 9px;
-    text-align: center;
-    color: #6941C6;
-    background-color: #F9F5FF;
-   
+#arrow {
+    width: 24px;
+    vertical-align: middle;
 }
 
-#pricesecond {
+#trialtext {
     display: inline-block;
-    font-size: 48px;
-    text-align: center;
-}
-
-#undertextsecond {
-    display: inline-block;
+    vertical-align: middle;
+    margin-left: 24px;
     font-size: 16px;
+}
+
+#trialmasivetext {
+    display: inline-block;
+    max-width: 656px;
+    font-size: 16px;
+    text-align: start;
+    margin-left: 51px;
+    margin-bottom: 16px;
+}
+
+#question {
+    max-width: 768px;
+    background-color: #E4E4E4;
+    padding: 32px;
+    border-radius: 16px;
+    margin: 0 auto;
+    border: 2px solid #FF2323;
+    background-color: #FFE5E5;
+}
+
+#arrowtwo {
+    vertical-align: middle;
+}
+
+#undertexttwo {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 16px;
+}
+
+#planp {
+    display: inline-block;
+    max-width: 656px;
+    font-size: 16px;
+    text-align: start;
+    margin-left: 30px;
+    margin-bottom: 16px;
+}
+
+#policydiv {
+    max-width: 768px;
+    background-color: #E4E4E4;
+    padding: 32px;
+    border-radius: 16px;
+    margin: 0 auto;
+    margin-top: 16px;
+    border: 2px solid #E9D7FF;
+    background-color: #E9D7FF;
+    border: none;
+}
+
+#arrowthree {
+    vertical-align: middle;
+}
+
+#policyp {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 16px;
+}
+
+#policymasivetext {
+    display: inline-block;
+    max-width: 656px;
+    font-size: 16px;
+    text-align: start;
+    margin-left: 30px;
+}
+
+#invoicediv {
+    max-width: 768px;
+    background-color: #E4E4E4;
+    padding: 32px;
+    border-radius: 16px;
+    margin: 0 auto;
+    margin-top: 16px;
+}
+
+#arrowfour {
+    vertical-align: middle;
+}
+
+#invoicep {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 16px;
+}
+
+#invoicemasivetext {
+    display: inline-block;
+    max-width: 656px;
+    font-size: 16px;
+    text-align: start;
+    margin-left: 30px;
+}
+
+#workdiv {
+    max-width: 768px;
+    background-color: #E4E4E4;
+    padding: 32px;
+    border-radius: 16px;
+    margin: 0 auto;
+    margin-top: 16px;
+    border: 2px solid #326DFF;
+    background-color: #DCE6FF;
+}
+
+#arrowfive {
+    vertical-align: middle;
+}
+
+#workp {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 16px;
+}
+
+#workmasivetext {
+    display: inline-block;
+    max-width: 656px;
+    font-size: 16px;
+    text-align: start;
+    margin-left: 30px;
+}
+
+#emaildiv {
+    max-width: 768px;
+    background-color: #E4E4E4;
+    padding: 32px;
+    border-radius: 16px;
+    margin: 0 auto;
+    margin-top: 16px;
+    background-color: #FFD5E7;
+}
+
+#arrowsix {
+    vertical-align: middle;
+}
+
+#emailp {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 16px;
+}
+
+#emailmasivetext {
+    display: inline-block;
+    max-width: 656px;
+    font-size: 16px;
+    text-align: start;
+    margin-left: 30px;
+}
+
+#mainrewiewsdiv {
+    max-width: 1248px;
+    margin: 0 auto;
+    border-radius: 24px;
+    background-color: #FFFFFF;
+    padding: 32px 32px 32px 32px;
+}
+#rewiewdiv {
+    display: inline-block;
+}
+
+#rewiewp {
+    display: inline-block;
+    max-width: 762px;
+    font-size: 40px;
+    text-align: center;
+    top: auto;
+}
+
+#rewiewtext {
+    display: inline-block;
+    width: 768px;
+    font-size: 40px;
+    text-align: center;
+    margin-left: 181px;
+}
+
+#rewiewmasivetext {
+    text-align: center;
+    font-size: 24px;
+    margin-top: -20px;
+    margin-left: 200px;
+}
+
+#warpspeeddiv {
+    max-width: 580px;
+    background-color: #FFFFFF;
+    text-align: left;
+    padding: 32px;
+    border: 2px solid #E9EAEB;
+    border-radius: 12px;
+}
+
+#masiveptext {
+    display: inline-block;
+    max-width: 518px;
+    font-size: 20px;
+}
+
+#avatarlogo {
+    font-size: 48px;
+    margin-left: auto;
+    margin-top: 80px;
+    vertical-align: middle;
+}
+
+#companylogo {
+    vertical-align: middle;
+    margin-top: 50px;
+}
+
+#niethzschdiv {
+    display: inline-block;
+    max-width: 580px;
+    background-color: #FFFFFF;
+    padding: 32px;
+    margin-top: 24px;
+    border: 2px solid #E9EAEB;
+    border-radius: 12px;
+}
+
+#niethzschp {
+    display: inline-block;
+    font-size: 20px;
+}
+
+#niethzschimg {
+    margin-top: 80px;
+    vertical-align: middle;
+}
+
+#niethzschlogo {
+    vertical-align: middle;
+    margin-top: 45px;
+}
+
+#odeaolabsdiv {
+    display: inline-block;
+    max-width: 580px;
+    background-color: #FFFFFF;
+    padding: 32px;
+    margin-top: 24px;
+    border: 2px solid #E9EAEB;
+    border-radius: 12px;
+    margin-left: 15px;
+}
+
+#odeaop {
+    display: inline-block;
+    font-size: 20px;
+}
+
+#odeaoavatar {
+    margin-top: 80px;
+    vertical-align: middle;
+}
+
+#odeaologo {
+    vertical-align: middle;
+    margin-top: 45px;
+}
+
+#quartzdiv {
+    display: inline-block;
+    max-width: 580px;
+    background-color: #FFFFFF;
+    padding: 32px;
+    margin-top: 24px;
+    border: 2px solid #E9EAEB;
+    border-radius: 12px;
+    margin-left: 15px;
+}
+
+#quartzp {
+    display: inline-block;
+    font-size: 20px;
+}
+
+#quartzimg {
+    margin-top: 80px;
+    vertical-align: middle; 
+}
+
+#quartzlogo {
+    vertical-align: middle;
+    margin-top: 45px;
 }
